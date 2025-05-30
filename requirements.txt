@@ -1,0 +1,10 @@
+flask
+flask-cors
+paddlepaddle
+paddleocr
+xlwings
+pandas
+aiohttp
+pillow
+dataframe_image
+matplotlib
